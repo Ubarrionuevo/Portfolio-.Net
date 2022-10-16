@@ -844,10 +844,7 @@ header ul li a:hover , a:focus{
     text-align: center;
 }
 
-.skills .box-skills-p{
-padding-bottom: none; 
- margin-bottom: none;
-}
+
 
 .skills .contenedor .box-skills img{
 max-width: 65px;
