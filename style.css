@@ -845,7 +845,7 @@ filter: invert(1);
     color:#fff;
 }
 .work .conteiner{
-    border-radius: 30px;
+    
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
