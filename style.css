@@ -644,12 +644,29 @@ a{
     background-color: transparent;
     display:flex;
     color: #fff;
-    padding: 10px 42px;
+    padding: 6px 44px;
     font-size: 18px;
     text-align: center;
     text-decoration: none;
     letter-spacing: 2px;
     font-weight: 500;
+}
+
+
+.boton-view{
+    border-radius: 30px;
+        border: 1px solid white;
+        margin: auto;
+        width: 31vh;
+        background-color: transparent;
+        display: flex;
+        color: #fff;
+        padding: 10px 40px;
+        font-size: 18px;
+        text-align: center;
+        text-decoration: none;
+        letter-spacing: 2px;
+        font-weight: 500;
 }
 
 .boton-b{
@@ -826,6 +843,10 @@ header ul li a:hover , a:focus{
     text-align: center;
 }
 
+.skills .box-skills-p{
+padding-bottom: none; 
+ margin-bottom: none;
+}
 
 .skills .contenedor .box-skills img{
 max-width: 65px;
